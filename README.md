@@ -5,17 +5,17 @@ Ce projet a pour but de se concentrer sur la sécurité d'une application.
 
 ## Étape 1 - Présentation de l'application
 
-Dans un premier temps vous allez présenter votre API en vous aidant de sa documentation. 
-Ensuite nous ferons une revue du code en axant sur le découpage de l'application ainsi que sur la gestion des rôles.
+Dans un premier temps vous allez présenter votre API **en vous aidant de sa documentation**. 
+Ensuite nous ferons une revue du code qui sera axé sur le découpage de l'application ainsi que sur la gestion des rôles.
 
 
 ## Étape 2 - Rapport de sécurité
 
-Dans un second temps, vous nous présenterez votre rapport de sécurité qui comportera deux parties, l'application 
+Dans un second temps, vous allez nous présenter votre rapport de sécurité qui parlera de la sécurité de votre application (application à défendre) ainsi que des failles testés sur l'application d'un•e collègue (application à attaquer).
 
 ### 2.1. Application à défendre
 
-Cette partie devra traiter de ce que vous avez mis en place sur votre application afin de la sécuriser. Pour cela vous devrez aborder les sujets suivants :
+Cette partie devra traiter de la sécurité de votre application. Pour cela vous devrez aborder les sujets suivants :
 
 - Politique RGPD
 - Dépendances du projet
