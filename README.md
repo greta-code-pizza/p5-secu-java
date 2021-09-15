@@ -1,17 +1,17 @@
 # Projet 5 - Sécurité avec Java
 
 
-Étape 1 :
+**Étape 1**
 
 Présentation de l'API et de sa documentation
 
 
 
-Étape 2 :
+**Étape 2**
 
 Présentation du rapport de sécurité
 
-2.1 - Application à défendre 
+2.1. Application à défendre 
 
 - Politique RGPD
 - Dépendances du projet
@@ -20,7 +20,7 @@ Présentation du rapport de sécurité
 
 
 
-2.2- Application à attaquer
+2.2. Application à attaquer
 
 Tester trois failles de sécurité
 
