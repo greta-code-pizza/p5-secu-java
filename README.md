@@ -28,8 +28,8 @@ Cette partie devra traiter de la sécurité de votre application. Pour cela vous
 Après avoir fait une courte introduction sur l'application à attaquer, vous devrez tester trois failles de sécurité en suivant les étapes ci-dessous.
 
 - Description de la faille
-- Classification
-- Processus de test  
+- Précision des facteurs de risque associé à la faille
+- Démarche permettant de tester la faille
 - Outil utilisé (si nécessaire)
 
 
